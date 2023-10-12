@@ -8,6 +8,8 @@ interface ImportMetaEnv {
   readonly APP_ENABLED_LANGUAGES: string | undefined;
   readonly APP_VERSION: string | undefined;
   readonly APP_GOOGLE_SITE_VERIFICATION_ID: string | undefined;
+  readonly APP_JW_IOS_LICENSE_KEY: string | undefined;
+  readonly APP_JW_ANDROID_LICENSE_KEY: string | undefined;
 }
 
 interface ImportMeta {

@@ -3127,11 +3127,6 @@ capacitor-plugin-safe-area@^2.0.5:
   resolved "https://registry.yarnpkg.com/capacitor-plugin-safe-area/-/capacitor-plugin-safe-area-2.0.5.tgz#a2b77f0585e3ef8e95915e26338670c8935d01a4"
   integrity sha512-Lg3P+/aW2/+C3gz2/xZFdfjgkOJ/ZSFTmZSxLaSY6lIudOTjwVpjoxhAyKUz1tc13Carjqdlq01yRrr++XOzAg==
 
-capacitor-video-player@^5.0.2:
-  version "5.0.2"
-  resolved "https://registry.yarnpkg.com/capacitor-video-player/-/capacitor-video-player-5.0.2.tgz#d90cdd936af6144c62fc1e29abe0be626934efe7"
-  integrity sha512-N262e64m9of4SAfhwUVwXJ8LZSFACAZ9127+lLpdlxhWf//QFksTTSaUTVT1ygZkypjVWF06bAZZZl9klBB/pA==
-
 chai-deep-match@1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/chai-deep-match/-/chai-deep-match-1.2.1.tgz#b0e578d55f6daef289106443eec3ec253184b800"
