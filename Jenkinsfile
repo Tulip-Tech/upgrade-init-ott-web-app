@@ -32,7 +32,7 @@ pipeline {
                 script {
                     def servers = ['10.217.125.14']
                     def branch = 'develop'
-                    deploy(servers, branch)
+                    deploy_old(servers, branch)
                 }
             }
         }
